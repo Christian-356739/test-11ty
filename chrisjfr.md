@@ -34,5 +34,5 @@ My interest in this field stems from my desire to ensure that software is functi
 - Spanish (Native)
 - English (Secondary)
 
-> http://localhost:8080/chrisjfr/index.html
-> npx @11ty/eleventy --serve
+> Use el comando para hacer de mi markdown un HTML npx @11ty/eleventy --serve 
+> sitio del HTML http://localhost:8080/chrisjfr/index.html
